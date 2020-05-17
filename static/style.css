@@ -3,6 +3,15 @@
     margin: 0;
     padding: 0;
 }
+
+@font-face {
+    font-family: 'florenceregular';
+    src: url('florence-regular-webfont.woff2') format('woff2'),
+         url('florence-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 header
 {
 width:100%;
@@ -20,17 +29,18 @@ top: -2px;
 {
     display: inline-block;
 }
-.main-nav li a
+
+.main-nav li a img
 {
 color: black;
 text-decoration: none;
 padding: 5px 20px;
-font-family: Georgia, 'Times New Roman', Times, serif;
+font-family:;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
 line-height: 26px;
-background-color: #F7F4E3;
+background-color: #FFFFFF;
 /* identical to box height */
 
 letter-spacing: 0.15em;
