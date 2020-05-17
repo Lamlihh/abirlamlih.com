@@ -6,8 +6,7 @@
 
 @font-face {
     font-family: 'florenceregular';
-    src: url('florence-regular-webfont.woff2') format('woff2'),
-         url('florence-regular-webfont.woff') format('woff');
+    src: url('florence-regular-webfont.woff2') format('woff2'),       
     font-weight: normal;
     font-style: normal;
 
