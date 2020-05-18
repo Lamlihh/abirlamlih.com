@@ -3,14 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
-@font-face {
-    font-family: 'florenceregular';
-    src: url(fonts/Florence-Regular.ttf);       
-    font-weight: normal;
-    font-style: normal;
-
-}
 header
 {
 width:100%;
@@ -34,7 +26,7 @@ top: -2px;
 color: black;
 text-decoration: none;
 padding: 5px 20px;
-font-family: florenceregular;
+font-family: 'Source Sans Pro', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
